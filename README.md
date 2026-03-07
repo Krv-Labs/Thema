@@ -1,24 +1,24 @@
 # THEMA 🔮
 
 <p align="center">
-  <a href="https://github.com/Krv-Analytics/Thema/graphs/contributors">
+  <a href="https://github.com/Krv-Labs/Thema/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Krv-Analytics/Thema?style=flat-square">
   </a>
-  <a href="https://github.com/Krv-Analytics/Thema/blob/main/LICENSE.md">
+  <a href="https://github.com/Krv-Labs/Thema/blob/main/LICENSE.md">
     <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square">
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python">
   </a>
-  <a href="https://krv-analytics.github.io/Thema/">
+  <a href="https://krv-labs.github.io/Thema/">
     <img src="https://img.shields.io/badge/docs-available-green?style=flat-square&logo=gitbook">
   </a>
   <br>
   <a href="https://krv.ai">
     <img src="https://img.shields.io/badge/web-krv.ai-black?style=flat-square&logo=vercel">
   </a>
-  <a href="https://www.linkedin.com/company/krv-analytics">
-    <img src="https://img.shields.io/badge/LinkedIn-Krv%20Analytics-blue?style=flat-square&logo=linkedin">
+  <a href="https://www.linkedin.com/company/krv-labs">
+    <img src="https://img.shields.io/badge/LinkedIn-Krv%20Labs-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:team@krv.ai">
     <img src="https://img.shields.io/badge/Email-team@krv.ai-fe2b27?style=flat-square&logo=gmail">
