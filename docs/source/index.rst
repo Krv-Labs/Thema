@@ -6,6 +6,19 @@ Thema
 
 **Topological Hyperparameter Evaluation and Mapping Algorithm**
 
+.. attention::
+   **DEPRECATION NOTICE**
+
+   This repository (**Thema**) is now deprecated. We have built a newer, faster, and more robust tool called `Pulsar <https://github.com/Krv-Labs/pulsar>`_ which replaces Thema.
+
+   Pulsar is available on PyPI as `thema-pulsar <https://pypi.org/project/thema-pulsar/>`_ and can be installed via:
+
+   .. code-block:: bash
+
+      pip install thema-pulsar
+
+   We strongly recommend migrating to Pulsar for your topological hyperparameter evaluation and mapping workflows.
+
 Thema explores model space through systematic preprocessing, dimensionality reduction, and graph construction, then selects representative models using topological distances.
 
 Quick Links
