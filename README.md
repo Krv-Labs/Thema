@@ -1,3 +1,11 @@
+> ⚠️ **IMPORTANT NOTICE:** This repository (**Thema**) is now deprecated and has been archived. We have built a newer, faster, and more robust tool called [Pulsar](https://github.com/Krv-Labs/pulsar) which replaces Thema.
+>
+> Pulsar is available on PyPI as [thema-pulsar](https://pypi.org/project/thema-pulsar/) and can be installed via:
+> ```bash
+> pip install thema-pulsar
+> ```
+> We strongly encourage all users to migrate to Pulsar for topological hyperparameter evaluation and mapping!
+
 # THEMA 🔮
 
 <p align="center">
